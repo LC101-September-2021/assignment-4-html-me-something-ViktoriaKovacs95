@@ -2,6 +2,7 @@ img {
     height: 70%;
     width: 54%;
     padding: 30px;
+    margin: 20px 30x;
 }
 body{
     margin : 8px;
@@ -20,9 +21,4 @@ body{
   body {
     color: royalblue;
   }
-  img {
-    height: 70%;
-    width: 54%;
-    margin: 20px 30x;
-
-  }
+ 
