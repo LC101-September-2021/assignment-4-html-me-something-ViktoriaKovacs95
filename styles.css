@@ -2,21 +2,14 @@ img {
     height: 30%;
     width: 45%;
 }
-p{
-
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
+body{
+    margin : 8px;
   }
-  div {
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
+  
+  #main { 
+    background-color: red;
   }
-  p { 
-    background-color:pink;
+  .funParagraph {
+    background-color: green"
   }
-  .main {
-    background-color: yellow;
-  }
+  
