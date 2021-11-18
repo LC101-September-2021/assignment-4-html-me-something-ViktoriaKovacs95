@@ -5,8 +5,14 @@ img {
 body{
     margin : 8px;
   }
-
+#mainHeading {
+  color:red;
+}
  
   .index-h2 {
     color: purple;
+  }
+
+  #testP {
+    color:green;
   }
