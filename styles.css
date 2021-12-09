@@ -1,1 +1,24 @@
-/* Write your CSS here! */
+img {
+    height: 70%;
+    width: 54%;
+    padding: 30px;
+    margin: 20px 30x;
+}
+.body{
+    margin : 8px;
+  }
+#mainHeading {
+  color:red;
+}
+ 
+  .index-h2 {
+    color: purple;
+  }
+
+  p.funParagraph {
+    color:green;
+  }
+  body {
+    color: royalblue;
+  }
+ 
